@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.fourthfeed/fourthfeed",
+  "title": "Fourth Feed",
+  "description": "Search AI video tools: prices, free credits, traffic and agent-readiness.",
+  "version": "1.0.0",
+  "websiteUrl": "https://fourthfeed.com/about",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://fourthfeed.com/mcp"
+    }
+  ]
+}
