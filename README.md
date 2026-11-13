@@ -63,6 +63,15 @@ npx skills add fourthfeed/fourthfeed-mcp
 
 or copy the folder into your agent's skills directory (for Claude Code, `~/.claude/skills/fourthfeed/`).
 
+
+### One-line prompt for any AI agent
+
+Paste into Claude Code, Cursor, Codex, or Gemini CLI:
+
+```text
+Read https://raw.githubusercontent.com/fourthfeed/fourthfeed-mcp/main/skills/fourthfeed/SKILL.md and compare AI video tools, pricing, and free tiers.
+```
+
 ## Support
 
 support@fourthfeed.com

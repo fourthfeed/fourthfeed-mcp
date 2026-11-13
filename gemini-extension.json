@@ -1,0 +1,11 @@
+{
+  "name": "fourthfeed-mcp",
+  "version": "1.0.0",
+  "description": "Search AI video tools: prices, free credits, traffic and agent-readiness.",
+  "mcpServers": {
+    "fourthfeed": {
+      "type": "http",
+      "url": "https://fourthfeed.com/mcp"
+    }
+  }
+}

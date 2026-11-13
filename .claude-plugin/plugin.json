@@ -1,0 +1,28 @@
+{
+  "name": "fourthfeed-mcp",
+  "version": "1.0.0",
+  "description": "Search AI video tools: prices, free credits, traffic and agent-readiness.",
+  "author": {
+    "name": "Fourth Feed",
+    "url": "https://fourthfeed.com"
+  },
+  "homepage": "https://fourthfeed.com/about",
+  "repository": "https://github.com/fourthfeed/fourthfeed-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-video",
+    "video-tools",
+    "directory",
+    "pricing",
+    "benchmarks",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json"
+}

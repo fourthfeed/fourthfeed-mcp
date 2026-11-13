@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fourthfeed": {
+      "type": "http",
+      "url": "https://fourthfeed.com/mcp"
+    }
+  }
+}
